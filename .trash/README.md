@@ -1,1 +1,0 @@
-# in-good-faith-handbook

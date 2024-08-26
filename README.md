@@ -8,6 +8,7 @@ A book about how to have collaborative good-faith discussions.
 [[Itheberg - think the unthinkable]]
 [[You are going to screw up and that's okay]]
 ## Believe it's Possible
+[[Believe that it's possible]]
 [[Does it matter if they're wrong]]
 [[Just like me]]
 [[Winning Bronze, Silver, and Gold]]
