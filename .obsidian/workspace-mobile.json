@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Book/7 - What world do you want to see/Norms, high-trust societies, and phase changes.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "Book/7 - What world do you want to see/Norms, high-trust societies, and phase changes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "Book/7 - What world do you want to see/Norms, high-trust societies, and phase changes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "Book/7 - What world do you want to see/Norms, high-trust societies, and phase changes.md"
           }
         }
       }
@@ -146,8 +146,8 @@
   },
   "active": "70609cacc6717d7c",
   "lastOpenFiles": [
-    "Book/Table of Contents.md",
     "README.md",
+    "Book/Table of Contents.md",
     "CONTRIBUTING.md",
     "Book/5 - Get to Understanding/Are you saying different things with the same words.md",
     "Book",
