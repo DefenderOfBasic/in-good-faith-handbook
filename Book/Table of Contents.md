@@ -1,4 +1,5 @@
 # Chapters
+This is a really rough sketch to give spots to slot in ideas - feel free to modify and reshape however you see fit!
 ## You
 [[First, look inwards]]
 [[Itheberg - think the unthinkable]]
