@@ -2,6 +2,8 @@
 title: ⚖️ In Good Faith - Table of Contents
 ---
 
+[GitHub source code](https://github.com/DefenderOfBasic/in-good-faith-handbook)
+
 # Chapters
 This is a really rough sketch to give spots to slot in ideas - feel free to modify and reshape however you see fit!
 ## You
