@@ -1,4 +1,4 @@
-A book about how to have collaborative good-faith discussions.
+A book about how to have collaborative good-faith discussions. Currently deployed here: https://defenderofbasic.github.io/in-good-faith-handbook/
 
 # Contributing
 
@@ -8,7 +8,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 # Table of Contents / Rough Outline
 
-[[Table of Contents]]
+https://defenderofbasic.github.io/in-good-faith-handbook/
 
 Rough structure, but feel free to add/modify/delete however feels right
 
