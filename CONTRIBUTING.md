@@ -9,7 +9,9 @@ https://x.com/intogoodfaith
 https://x.com/tonyaajjackson
 
 Here are a couple ways you could contribute:
+
 # Add and edit via fork and pull request
+
 For those familiar with Git and GitHub, you can fork the repo, make your changes, then create a pull request to merge your changes back into the main repo.
 https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork
 

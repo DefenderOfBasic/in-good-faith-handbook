@@ -1,3 +1,7 @@
+---
+title: ⚖️ In Good Faith - Table of Contents
+---
+
 # Chapters
 This is a really rough sketch to give spots to slot in ideas - feel free to modify and reshape however you see fit!
 ## You
