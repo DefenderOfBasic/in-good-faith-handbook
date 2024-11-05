@@ -7,7 +7,7 @@ on:
 
 jobs:
 
-  build-and-test:
+  build-and-deploy:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -24,31 +24,6 @@ jobs:
       - name: Build with mdBook
         run: bin/mdbook build
 
-      - name: Verify `book` Directory Exists
-        run: |
-          if [ -d "book" ]; then 
-            echo "Success: 'book' directory found."; 
-          else 
-            echo "Error: 'book' directory not found!"; 
-            exit 1; 
-          fi
-          echo "Listing all files in the current directory:"
-          ls -R
-  deploy:
-    needs: build-and-test
-    permissions:
-      contents: read
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
       - name: Setup GitHub Pages
         uses: actions/configure-pages@v3
 
@@ -60,3 +35,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+
+      
