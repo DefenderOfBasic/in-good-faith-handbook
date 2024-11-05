@@ -1,0 +1,16 @@
+[book]
+authors = ["Defender"]
+language = "en"
+multilingual = false
+src = "src"
+title = "🤝 In Good Faith: A Handbook 🎭"
+
+[output.html]
+edit-url-template = "https://github.com/DefenderOfBasic/in-good-faith-handbook/edit/main/{path}"
+
+[output.html.print]
+enable = false 
+
+[output.html.fold]
+enable = true
+level = 0 
