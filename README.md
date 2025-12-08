@@ -1,6 +1,6 @@
 # 🤝 Anatomy of an Internet Argument 🎭
 
-<img width="400" height="849" alt="image" src="https://github.com/user-attachments/assets/cb4db863-7021-4c29-8f93-78d80cc21bd5" />
+<img width="500" height="849" alt="image" src="https://github.com/user-attachments/assets/cb4db863-7021-4c29-8f93-78d80cc21bd5" />
 
 AoIA is a social protocol for changing people's minds at scale. You can use this to convince any human of any thing, as long as it's true. If it doesn't work for you, open a bug report and well investigate. 
 
