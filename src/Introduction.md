@@ -1,10 +1,17 @@
 # Introduction
 
-This is an open source book about how to have better internet arguments. The central claim is that *"no one wants to argue in good faith on social media"* is a self-fulfilling myth. The reality is that people DO change their mind *all the time* because of what they read on the internet. Too many people with truth on their side aren't even trying because they believe this myth.
+👋 Welcome! 
 
-This is a collection of techniques to help you win any internet argument / convince anyone of anything. This is a bit of a dark art, but we're doing it 100% in the open, because when everyone understands these tools, the truth has a fighting chance of making it out there. 
+In this book you will find a strategy for how to win every internet argument. You may not win every battle, but you will win the war (whatever war you're fighting). It's a protocol for how to map the epistemology of the person you're talking to, enter their frame, and surface information to them in a way that will trigger them to update. 
 
-## Structure
+At best, you will convince them of the truth you wish to spread. At worst, you will learn their world model so you can better predict them, and fight them/protect yourself from them. And along the way, you will likely change your mind on many things, as you find any useful truths that your enemies have that you don't yet have. 
+
+
+<!-- This is an open source book about how to have better internet arguments. The central claim is that *"no one wants to argue in good faith on social media"* is a self-fulfilling myth. The reality is that people DO change their mind *all the time* because of what they read on the internet. Too many people with truth on their side aren't even trying because they believe this myth. -->
+
+<!-- This is a collection of techniques to help you win any internet argument / convince anyone of anything. This is a bit of a dark art, but we're doing it 100% in the open, because when everyone understands these tools, the truth has a fighting chance of making it out there.  -->
+
+<!-- ## Structure
 
 The book is split into two major parts, theory & case studies. 
 
@@ -24,4 +31,4 @@ The most valuable thing I've gotten out of it is a much clearer picture of socie
 
 Maybe the most valuable thing I found was that I changed my own mind on a lot of things by engaging in this good faith discussion. I thought _I_ was on the side of truth until I realized the reason I was failing to convince people on things was because _I was wrong_. I hope this process will help you calibrate too. 
 
-The good news is that it's very hard to change people's opinion en-masse. It's very easy to explain to people the truth 1 on 1. We can all just start doing this and helping truth spread wherever we go.
+The good news is that it's very hard to change people's opinion en-masse. It's very easy to explain to people the truth 1 on 1. We can all just start doing this and helping truth spread wherever we go. -->
