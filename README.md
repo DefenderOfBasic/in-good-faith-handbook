@@ -9,6 +9,7 @@ AoIA is a social protocol for changing people's minds at scale. You can use this
 ----
 
 - Intro substack essay that started the series: https://defenderofthebasic.substack.com/p/anatomy-of-an-internet-argument
+- All the essays currently in the series: https://defenderofthebasic.substack.com/t/internet-arguments
 - Love Symposium talk (SF Nov 2025): https://www.youtube.com/watch?v=H9sFEEuWm-k
   - slides: https://docs.google.com/presentation/d/16udF-m8tGQtLGzrf-ihRzxXs1efg5NrLdj_j6wLPZ0U/edit
 
